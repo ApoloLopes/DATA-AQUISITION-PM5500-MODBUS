@@ -1,0 +1,9 @@
+C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\bin\Debug\DAQPM5500.exe.config
+C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\bin\Debug\DAQPM5500.exe
+C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\bin\Debug\DAQPM5500.pdb
+C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\bin\Debug\EasyModbus.dll
+C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\obj\Debug\DAQPM5500.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\obj\Debug\DAQPM5500.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\obj\Debug\DAQPM5500.csproj.CopyComplete
+C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\obj\Debug\DAQPM5500.exe
+C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\obj\Debug\DAQPM5500.pdb

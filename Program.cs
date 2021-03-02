@@ -32,7 +32,7 @@ namespace DAQPM5500
                 //modbusClient.Disconnect();                                                                                       //Disconnect from Server
                 //Console.Write("Press any key to continue . . . ");
                 //    Console.WriteLine(modbusClient.ReadInputRegisters(39057, 1)[0].ToString());
-
+                /// lalalal comentario de teste
                 Thread.Sleep(milliseconds);
 
 

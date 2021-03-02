@@ -32,7 +32,10 @@ namespace DAQPM5500
                 //modbusClient.Disconnect();                                                                                       //Disconnect from Server
                 //Console.Write("Press any key to continue . . . ");
                 //    Console.WriteLine(modbusClient.ReadInputRegisters(39057, 1)[0].ToString());
-                /// lalalal comentario de teste
+
+                Console.WriteLine("voce está na subbranch");
+                Console.Write("Press any key to continue . . . ");
+                Console.ReadKey(true);
                 Thread.Sleep(milliseconds);
 
 

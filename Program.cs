@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using EasyModbus;
 using System.Threading;
+using DAQPM5500.conections;
 
 namespace DAQPM5500
 {

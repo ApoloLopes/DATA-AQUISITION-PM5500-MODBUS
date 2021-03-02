@@ -7,3 +7,5 @@ C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\obj\Debu
 C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\obj\Debug\DAQPM5500.csproj.CopyComplete
 C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\obj\Debug\DAQPM5500.exe
 C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\obj\Debug\DAQPM5500.pdb
+C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\bin\Debug\Database.mdf
+C:\Users\ADM\Desktop\estagio\PM5500_DATA_aquisition\PM5500DAQ\DAQPM5500\bin\Debug\Database_log.ldf

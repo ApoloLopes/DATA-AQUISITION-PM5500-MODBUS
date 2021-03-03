@@ -14,7 +14,7 @@ namespace DAQPM5500
         static ConectionsType conect = new ConectionsType();
         private static String ip = "169.254.0.10";
         private static int port = 502;
-        private static String comPort = "COM1";
+        private static String comPort = "COM3";
         private static byte id = 1;
         private static int baudrate = 19200;
         private static String parity = "Even";
@@ -22,12 +22,13 @@ namespace DAQPM5500
 
         static void Main(string[] args)
         {
-            Thread t = new Thread(ModbusTcp);
-            t.Start();
+            //Thread t = new Thread(ModbusTcp);
+            //t.Start();
             //conect.ModbusTcp("169.254.0.10", 502);
             ModbusRtu();
+            //conect.
 
-            t.Abort();
+            //t.Abort();
    
         }
 

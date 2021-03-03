@@ -10,7 +10,7 @@ namespace DAQPM5500.conections
     public class ConectionsType
     {
 
-        public void ModbusTcp(String ip, int port)
+        public ModbusClient ModbusTcp(String ip, int port)
         {
             ModbusClient modbusClient = new ModbusClient(ip, port);
             try
@@ -26,9 +26,11 @@ namespace DAQPM5500.conections
                 Console.ReadKey(true);
             }
 
+            return modbusClient;
+
         }
 
-        public void MdbusRtu(String port,  byte id = 1, int baudrate = 9600, String parity = "Even", String stopbits = "One")
+        public ModbusClient MdbusRtu(String port,  byte id = 1, int baudrate = 9600, String parity = "Even", String stopbits = "One")
         {
             ModbusClient modbusClient = new ModbusClient(port);
             modbusClient.UnitIdentifier = id;
@@ -95,7 +97,7 @@ namespace DAQPM5500.conections
                 Console.ReadKey(true);
             }
 
+            return modbusClient;
         }
-
     }
 }
